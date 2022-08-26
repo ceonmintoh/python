@@ -1,0 +1,5 @@
+this is a new method
+this is a new method
+this is a new method
+this is a new method
+it is very easy to use!\n
